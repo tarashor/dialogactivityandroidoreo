@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogActivityAndroidOreo</string>
+    <string name="dialog_btn">Dialog</string>
+</resources>
